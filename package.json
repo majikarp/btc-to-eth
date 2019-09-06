@@ -1,0 +1,17 @@
+{
+  "name": "btc-to-eth",
+  "version": "1.0.0",
+  "description": "Bitcoin to Etherium Converter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bitcoin",
+    "btc",
+    "eth",
+    "ethereum"
+  ],
+  "author": "Marty Jacobs",
+  "license": "ISC"
+}
