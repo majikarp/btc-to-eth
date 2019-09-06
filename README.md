@@ -23,7 +23,7 @@ Converted amount in bitcoin
 
 Example output:
 
-`61.24`
+`61310`
 
 ## API
 
